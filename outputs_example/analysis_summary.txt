@@ -1,0 +1,35 @@
+PLANT STRESS GENE PROFILING REPORT: ARABIDOPSIS THALIANA (DREB1A)
+
+1. TARGET RECORD & METADATA
+- Accession ID          : NM_118680
+- Organism              : Arabidopsis thaliana (thale cress)
+- Gene Name             : DREB1A / CBF3
+- Description           : Dehydration-responsive element-binding protein 1A mRNA
+- Source Database       : NCBI GenBank (Nucleotide)
+- Retrieval Method      : Programmatic fetch via Bio.Entrez API
+
+2. SEQUENCE & TRANSLATION METRICS
+- Full Transcript Length: 1,368 bp
+- Coding Sequence (CDS) : ~651 bp (coordinates: ~450–1100 bp region)
+- Translated Peptide    : ~216 amino acids
+- Stop Codon Handled    : Yes (to_stop=True)
+
+3. REGULATORY MOTIF SCANNING
+- Target Motifs         : GCCGAC (DRE/CRT core), ACCGAC (alternative core)
+- Biological Role       : Binding docking sites recognized by AP2/ERF domain 
+                          transcription factors under drought and cold stress.
+- Motif Scan Summary    : Scanned across full nucleotide transcript to identify 
+                          regulatory elements and promoter/coding conservation.
+
+4. GC-CONTENT & THERMAL STABILITY PROFILE
+- Mean GC Content       : 41.5%[cite: 1]
+- Window Parameters     : Window Size = 50 bp, Step Size = 10 bp
+- Profile Dynamics[cite: 1]:
+  * Baseline / Flanks   : Low GC-content (20%–35%) observed in the 5' and 3' 
+                          untranslated regions (UTRs) and terminal sequences[cite: 1].
+  * CDS High-GC Peak    : Marked surge reaching 55%–62% between positions 
+                          ~450 bp and ~950 bp[cite: 1].
+- Biological Inference  : The elevated GC density directly delineates the 
+                          functional coding exon from non-coding flanking regions, 
+                          reflecting codon usage preference and enhanced 
+                          secondary structure stability in the mRNA transcript[cite: 1].
