@@ -11,7 +11,7 @@ Nowadays, drought and salinity are major abiotic stresses which limits global cr
 - GC-Content Analysis: Calculates sliding-window GC distributions (Window: 50 bp, Step: 10 bp).
 
 ## Results: Arabidopsis thaliana DREB1A
-![GC Content Profile](dreb1a_gc_plot.png)
+![GC Content Profile](arabidopsis_gc_plot.png)
 
 - Accession: NM_118680
 - Mean GC Content: 41.5%
